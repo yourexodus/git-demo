@@ -1,2 +1,0 @@
-starting application
-logging another event
